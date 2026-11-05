@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi, I'm Alif Ihsan 👋</h1>
-  <p><strong>Software Engineer · Multi-Agent Systems Architect · AI & Graph Researcher</strong></p>
-  <p>Passionate about building autonomous agent architectures, robust backends, and responsive tactile interfaces.</p>
+  <p><strong>Software Engineer · UI/UX Designer · AI & Data Enthusiast</strong></p>
+  <p>Passionate about crafting intuitive user experiences, robust backends, and data-driven systems.</p>
 </div>
 
 ---
@@ -9,17 +9,17 @@
 ### 🛠️ Tech Stack & Tooling
 
 - **Languages:** Python · TypeScript · JavaScript · SQL · Bash
+- **Design & Interfaces:** Figma · Next.js · React · Tailwind CSS · Astro
 - **Backend & Systems:** FastAPI · Node.js · PostgreSQL · SQLite · Linux VPS · Systemd
-- **Frontend & Interfaces:** Next.js · React · Tailwind CSS · Astro
-- **AI & Data Science:** Multi-Agent Systems · Knowledge Graphs · Graph-RAG · Pydantic
+- **AI & Data:** Pydantic · Pandas · LLM Orchestration · Data Analytics
 
 ---
 
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alifihsan7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alifihsan7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=alifihsan7&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=alifihsan7&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ---
